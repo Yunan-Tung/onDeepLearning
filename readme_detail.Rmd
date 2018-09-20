@@ -1,0 +1,61 @@
+---
+title: "Brief and Detailed Description"
+author: "yunan"
+date: "2018年2月19日"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r echo=FALSE}
+print(paste0(
+  "Last Updated Time: ", Sys.time()
+  
+))
+
+```
+
+#1 Intro & Preliminary
+
+**1.1 References**
+
+mainly on 
+
++ François Chollet，Deep Learning with R,2017
++ JJ Allaire,François Chollet，Deep Learning with Python，2017
++ Anshul Joshi，Julia for Data Science，2016
++ http://keras.rstudio.com/
++ https://github.com/FluxML/Flux.jl
++ https://github.com/denizyuret/Knet.jl
++ 周志华 机器学习，2015
+
+
+
+
+**1.2 Involved Tools**
+
++ R
++ Python
++ Julia
+
+
+
+
+
+
+## Tips
+
+
+###1   Why does the case of 'epochs>1' come out?
+
+
+https://www.quora.com/Why-are-multiple-epochs-needed-for-deep-learning
+
+
+
+
+
+
+
